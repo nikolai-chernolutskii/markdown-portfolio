@@ -1,1 +1,1 @@
-[Link to my LinkedIn profile](https://www.linkedin.com/in/nikolaichernolutskii/)
+[Link to my GitHub profile](https://github.com/nikolai-chernolutskii/)
