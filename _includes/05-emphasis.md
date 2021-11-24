@@ -1,4 +1,4 @@
-# SKills
+# Skills
 
 ## *A list of my technical skills* ##
 
